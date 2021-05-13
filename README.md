@@ -2,6 +2,7 @@
 comandos 
 
 docker build -t python-ac5 .
+
 docker run -p 5000:5000 python-ac5
 
 
