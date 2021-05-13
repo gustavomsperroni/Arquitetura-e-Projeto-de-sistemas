@@ -1,7 +1,10 @@
 # Arquitetura-e-Projeto-de-sistemas
-comandos 
+comandos: 
+criar imagem
 
 docker build -t python-ac5 .
+
+subir container 
 
 docker run -p 5000:5000 python-ac5
 
